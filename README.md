@@ -1,9 +1,9 @@
 # Guilherme Falck do Carmo
 
-## Olá Galera
+## Hello World 🌎
 
-Desde janeiro estou estudando e estou amando a programação
-Sou um Full Stack Developer 💻
+Desde janeiro estou estudando e amando o mundo da programação
+Sou um FullStack Developer 💻
 
 - 💻 Sou experiente em HTML, CSS, JS, SASS, SCSS, BOOTSTRAP
 - 📱 OneBitCode em curso 

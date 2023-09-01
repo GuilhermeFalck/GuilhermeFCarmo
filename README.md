@@ -10,8 +10,8 @@ Sou um FullStack Developer 💻
 - 🏆 Treinamento <a href="https://www.onebitcode.com/"></a> na trilha de Fullstack completo pela <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a>
 - 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas 2/4
 <div>
-  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=dracula"/>
-  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefalck&layout=compact&theme=dracula"/>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=onedark"/>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefalck&layout=compact&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

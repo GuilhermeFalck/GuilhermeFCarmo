@@ -5,7 +5,7 @@
 Desde janeiro estou estudando e amando o mundo da programação
 Sou um FullStack Developer 💻
 
-- 💻 Sou experiente em HTML, CSS, JS, SASS, SCSS, BOOTSTRAP
+- 💻 Sou experiente em HTML, CSS, JavaScript, SASS, SCSS, BOOTSTRAP, React, TypeScript, NodeJS
 - 📱 OneBitCode em curso 
 - 🏆 Treinamento <a href="https://www.onebitcode.com/"></a> na trilha de Fullstack completo pela <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a>
 - 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas 2/4

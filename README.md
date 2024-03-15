@@ -7,7 +7,7 @@ Sou um FullStack Developer 💻
 
 - 💻 Sou experiente em HTML, CSS, JavaScript, SASS, SCSS, BOOTSTRAP, React, TypeScript, NodeJS
 - 📱 OneBitCode em curso 
-- 🏆 Treinamento <a href="https://www.onebitcode.com/"></a> na trilha de Fullstack completo pela <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> e pelo <a href="https://github.com/Rocketseat">@Rocketseat</a>
+- 🏆 Treinamento <a href="https://www.onebitcode.com/"></a> na trilha de Fullstack completo pela <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> e melhorando meus conhecimentos pelo <a href="https://github.com/Rocketseat">@Rocketseat</a>
 - 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas 2/4
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=onedark"/>

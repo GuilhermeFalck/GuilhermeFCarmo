@@ -5,7 +5,7 @@
       name: "Guilherme",
       age: 20,
       study: "I am currently studying to become a FullStack Developer",
-      love: "Programming 🖥️, games 🎮 and cars 🚘"
+      love: "Programming 🖥️, Games 🎮 and Cars 🚘"
    };
 ```
 

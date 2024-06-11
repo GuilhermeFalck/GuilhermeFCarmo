@@ -30,3 +30,4 @@ Sou um FullStack Developer 💻
   <img align="center" alt="Gui-React" height="30" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
   <img align="center" alt="Gui-VSCode" height="30" width="40" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 </div>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-falck-do-carmo/)

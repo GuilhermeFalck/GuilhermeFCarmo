@@ -11,14 +11,14 @@
 
 ## Hello World 🌎
 
-Desde janeiro de 2023 estou estudando e amando o mundo da programação
-Sou um FullStack Developer 💻
+Since January 2023 I have been studying and loving the world of programming
+I'm a FullStack Developer 💻
 
-- 💻 Sou experiente em HTML, CSS, JavaScript, SASS, React, TypeScript, NodeJS
+- 💻 I am experienced in HTML, CSS, JavaScript, SASS, React, TypeScript, NodeJS
 - 📱 OneBitCode 100%
 - 🚀 RocketSeat 25%
-- 🏆 Treinamento <a href="https://www.onebitcode.com/"></a> na trilha de Fullstack completo pela <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> e melhorando meus conhecimentos pelo <a href="https://github.com/Rocketseat">@Rocketseat</a>
-- 🤓 Cursando Superior em Análise e Desenvolvimento de Sistemas 3/4
+- 🏆 <a href="https://www.onebitcode.com/"></a> training on the Fullstack track complete by <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> and improving my knowledge through <a href="https://github.com/Rocketseat">@Rocketseat</a>
+- 🤓 Studying Higher Education in Systems Analysis and Development 4/4
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=onedark"/>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefalck&layout=compact&theme=onedark"/>

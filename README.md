@@ -5,7 +5,7 @@
       name: "Guilherme",
       age: 20,
       study: "I am currently studying to become a FullStack Developer",
-      love: "Programming 🖥️, Games 🎮 and Cars 🚘"
+      love: "Programming 🖥️, Games 🎮, Cars 🚘 and my girlfriend 👩🏼‍❤️‍👨🏻"
    };
 ```
 
@@ -16,9 +16,10 @@ I'm a FullStack Developer 💻
 
 - 💻 I am experienced in HTML, CSS, JavaScript, SASS, React, TypeScript, NodeJS
 - 📱 OneBitCode 100%
-- 🚀 RocketSeat 50%
+- 🚀 RocketSeat 99%
 - 🏆 <a href="https://www.onebitcode.com/"></a> Training on the Fullstack track complete by <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> and improving my knowledge through <a href="https://github.com/Rocketseat">@Rocketseat</a>
 - 🤓 Studying Higher Education in Systems Analysis and Development 4/4
+- 🤓 Studying Higher Education in Computer Engineering 1/10
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=onedark"/>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefalck&layout=compact&theme=onedark"/>

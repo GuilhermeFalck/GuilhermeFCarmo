@@ -19,7 +19,6 @@ I'm a FullStack Developer 💻
 - 🚀 RocketSeat 99%
 - 🏆 <a href="https://www.onebitcode.com/"></a> Training on the Fullstack track complete by <a href="https://github.com/OneBitCode">@OneBitCodeBlog</a> and improving my knowledge through <a href="https://github.com/Rocketseat">@Rocketseat</a>
 - 🤓 Studying Higher Education in Systems Analysis and Development 4/4
-- 🤓 Studying Higher Education in Computer Engineering 1/10
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=guilhermefalck&show_icons=true&theme=onedark"/>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefalck&layout=compact&theme=onedark"/>
